@@ -1,6 +1,6 @@
 
 # Monocular Depth Estimation with Temporal Consistency
-This repository contains code and scripts to train a model enforcing temporal consistency on MiDaS, a depth estimation model, as well as to convert images into pointcloud data using TCMonoDepth [[ref](https://github.com/yu-li/TCMonoDepth)]. The repository is organized into two main directories: `train` and `TCMonoDepth`.
+This repository contains code and scripts to enforce temporal consistency on MiDaS, a monocular depth estimation model, as well as to convert images into pointcloud data using TCMonoDepth [[ref](https://github.com/yu-li/TCMonoDepth)]. The repository is organized into two main directories: `train` and `TCMonoDepth`.
 
 More details about the project can be found [here](https://drive.google.com/file/d/1RCffsG6seDwaQRLczE_MWKorwe9404x7/view?usp=drive_link).
 
